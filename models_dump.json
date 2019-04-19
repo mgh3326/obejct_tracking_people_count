@@ -1,0 +1,52 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "points": [
+        {
+          "x": 5,
+          "y": 6
+        },
+        {
+          "x": 6,
+          "y": 8
+        }
+      ],
+      "is_out_line": false,
+      "is_in_line": true,
+      "is_center_line": false,
+      "age": {
+        "name": 25,
+        "accuracy": 0.95
+      },
+      "gender": {
+        "name": "man",
+        "accuracy": 0.95
+      }
+    },
+    {
+      "id": 2,
+      "points": [
+        {
+          "x": 15,
+          "y": 16
+        },
+        {
+          "x": 61,
+          "y": 81
+        }
+      ],
+      "is_out_line": false,
+      "is_in_line": true,
+      "is_center_line": false,
+      "age": {
+        "name": 20,
+        "accuracy": 0.95
+      },
+      "gender": {
+        "name": "woman",
+        "accuracy": 0.95
+      }
+    }
+  ]
+}
